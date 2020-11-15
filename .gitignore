@@ -1,0 +1,9 @@
+# Directories
+.vs/
+Debug/
+Release/
+int/
+Dependencies/OPENCV/*
+
+# Files
+*.user
